@@ -1,0 +1,8 @@
+# Keep the website repository focused on the deployable site.
+Etsy/
+Treatstock/
+.vscode/
+AGENTS.md
+Peach-Avo-Logo*.png
+initial-capabilities.md
+website-feedback-v1.md

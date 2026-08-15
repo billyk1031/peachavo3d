@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://peachavo3d.peachandavo.co.uk/sitemap.xml
